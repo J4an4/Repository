@@ -1,0 +1,6 @@
+C:\Users\alonsomc1\Desktop\Vikings\x64\Debug\Vikings.exe
+C:\Users\Usuari\Downloads\soukobancodeNuevo (2)\soukobancodeNuevo\soukobancodeNuevo\soukoban\x64\Debug\soukoban.exe
+C:\Users\Usuari\Documents\soukoban\x64\Debug\soukoban.exe
+C:\Users\Usuari\Documents\Alonso-Jana_Super Soukoban_v0.5\Super Soukoban\x64\Debug\soukoban.exe
+C:\Users\Usuari\Downloads\Alonso-Jana_Super.Soukoban_v0.5\Alonso-Jana_Super Soukoban_v0.5\Super Soukoban\x64\Debug\soukoban.exe
+C:\Users\Usuari\Downloads\Alonso-Jana_Super.Soukoban_v0.5 (2)\Alonso-Jana_Super.Soukoban_v0.5\Alonso-Jana_Super Soukoban_v0.5\Super Soukoban\x64\Debug\soukoban.exe
